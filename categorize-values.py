@@ -6,5 +6,5 @@ for item in myMixtedTypeList:
     #print( str(item) + " es de tipo de dato: " + str(type(item))) 
 
 
-
+#Holi github
 
